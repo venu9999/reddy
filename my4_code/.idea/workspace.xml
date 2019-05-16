@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ebda366-a059-4e7a-abf8-8340a234975a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/my4django/my4app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/my4django/my4app/serializers.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my4/app/pages/common/controllers/header.ctrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4140">
+              <caret line="276" column="32" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my4/app/pages/common/templates/main-header.tpl.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="62" column="150" selection-start-line="62" selection-start-column="139" selection-end-line="62" selection-end-column="150" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#md-toolbar#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ESG</find>
+      <find>overall</find>
+      <find>vm.currentCorp.seriestest</find>
+      <find>Product Sus</find>
+      <find>Compensa</find>
+      <find>vm.corpProperties</find>
+      <find>currentCorp.datasetOverride</find>
+      <find>Product Su</find>
+      <find>Develeopment</find>
+      <find>compensation_benefits</find>
+      <find>eatout</find>
+      <find>discovery</find>
+      <find>eat</find>
+      <find>sliders</find>
+      <find>water</find>
+      <find>fund_details</find>
+      <find>enviornment_climate_change</find>
+      <find>Sliders-Wrapper</find>
+      <find>values</find>
+      <find>enviornment</find>
+      <find>iex</find>
+      <find>username_id</find>
+      <find>portfolio</find>
+      <find>showTabDialog</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>environment</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/my4</dir>
+      <dir>$PROJECT_DIR$/my4django</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my4" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my4/app/pages/portfolio/controllers/portfolio.ctrl.js" />
+        <option value="$PROJECT_DIR$/my4django/my4app/models.py" />
+        <option value="$PROJECT_DIR$/my4/app/pages/common/templates/companies-dialog.html" />
+        <option value="$PROJECT_DIR$/my4/app/pages/common/controllers/companies-dialog.ctrl.js" />
+        <option value="$PROJECT_DIR$/my4django/csrhub_session.py" />
+        <option value="$PROJECT_DIR$/my4/app/pages/common/controllers/start-page.ctrl.js" />
+        <option value="$PROJECT_DIR$/my4django/my4app/views.py" />
+        <option value="$PROJECT_DIR$/my4django/my4app/serializers.py" />
+        <option value="$PROJECT_DIR$/my4/app/pages/common/templates/main-header.tpl.html" />
+        <option value="$PROJECT_DIR$/my4/app/pages/common/controllers/header.ctrl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my4_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my4_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my4_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my4_code" type="462c0819:PsiDirectoryNode" />
+              <item name="my4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my4_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my4_code" type="462c0819:PsiDirectoryNode" />
+              <item name="my4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my4_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my4_code" type="462c0819:PsiDirectoryNode" />
+              <item name="my4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my4_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my4_code" type="462c0819:PsiDirectoryNode" />
+              <item name="my4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my4_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my4_code" type="462c0819:PsiDirectoryNode" />
+              <item name="my4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my4_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my4_code" type="462c0819:PsiDirectoryNode" />
+              <item name="my4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my4_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my4_code" type="462c0819:PsiDirectoryNode" />
+              <item name="my4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my4/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ebda366-a059-4e7a-abf8-8340a234975a" name="Default Changelist" comment="" />
+      <created>1548673529364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548673529364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18688525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0035_auto_20161221_1229.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0036_auto_20161221_1237.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0037_auto_20170103_0738.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0038_auto_20170104_1014.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0039_delete_csrhub_stocks.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0040_auto_20170104_1031.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0041_auto_20170106_1203.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0042_auto_20170120_1255.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0044_companies_csrhub_estimate_recommendation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0046_auto_20170203_0030.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0047_auto_20170213_0717.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0048_auto_20170314_1031.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0049_auto_20170314_1212.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0050_auto_20170314_1336.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0051_auto_20170314_1436.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0052_auto_20170327_1223.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0053_auto_20170328_1018.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0054_auto_20170330_1136.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0055_auto_20170331_1135.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0056_auto_20170403_1404.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0059_auto_20180423_1553.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0061_auto_20180514_0739.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0062_companies_csrhub_finance_value.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0063_auto_20180514_1104.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0064_auto_20180527_1104.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0065_company_lists.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0066_auto_20180605_1657.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0067_remove_companies_csrhub_xignite_fund_holdingsymbol8_date.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0069_auto_20180729_1423.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0070_weighted_uservalues_20180729_1423.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0071_weighted_companies_uservalues_20180729_1423.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/migrations/0068_auto_20180703_1654.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/app/pages/portfolio/templates/portfolio-corp-overview.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="87" column="28" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/images/faith_based.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/images/filter.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/images/social_impact.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/images/beauty.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/app/pages/common/controllers/start-page.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2595">
+          <caret line="173" column="43" selection-start-line="173" selection-start-column="43" selection-end-line="173" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4_site/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="38" />
+          <folding>
+            <element signature="e#642#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1541">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/permissions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4django/my4app/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="186" column="42" lean-forward="true" selection-start-line="186" selection-start-column="42" selection-end-line="186" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/app/pages/portfolio/controllers/portfolio.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/app/pages/portfolio/controllers/social-dialog.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/app/pages/portfolio/portfolio.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/app/pages/portfolio/portfolio.mod.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/contrib/auth/management/commands/createsuperuser.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/app/pages/common/controllers/header.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="276" column="32" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my4/app/pages/common/templates/main-header.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="62" column="150" selection-start-line="62" selection-start-column="139" selection-end-line="62" selection-end-column="150" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#md-toolbar#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
